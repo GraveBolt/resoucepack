@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/custom/swords/basic_iron_sword/basic_iron_sword_2"
+  }
+}

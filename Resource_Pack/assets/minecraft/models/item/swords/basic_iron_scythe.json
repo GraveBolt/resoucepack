@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/custom/scythes/basic_iron_scythe_1"
+  }
+}

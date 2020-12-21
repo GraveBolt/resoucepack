@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/custom/scythes/scythe_of_the_new_moon_1"
+  }
+}

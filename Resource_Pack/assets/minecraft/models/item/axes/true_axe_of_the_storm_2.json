@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/custom/axes/true_axe_of_the_storm_2"
+  }
+}

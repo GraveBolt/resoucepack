@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_sword"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data":10001}, "model": "item/swords/basic_iron_sword/basic_iron_sword_1"},
+    { "predicate": {"custom_model_data":10011}, "model": "item/swords/basic_iron_sword/basic_iron_sword_2"},
+    { "predicate": {"custom_model_data":10101}, "model": "item/swords/basic_iron_sword/basic_iron_sword_3"},
+    { "predicate": {"custom_model_data":11001}, "model": "item/swords/basic_iron_sword/basic_iron_sword_4"},
+    { "predicate": {"custom_model_data":70001}, "model": "item/scythes/basic_iron_scythe_1"},
+    { "predicate": {"custom_model_data":70003}, "model": "item/scythes/scythe_of_the_new_moon_1"},
+    { "predicate": {"custom_model_data":90002}, "model": "item/swords/queen_bee_stinger_1"},
+    { "predicate": {"custom_model_data":90004}, "model": "item/scythes/crystal_scythe_1"}
+  ]
+}

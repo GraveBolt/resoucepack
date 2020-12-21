@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data":90001}, "model": "item/axes/axe_of_the_storm_1"},
+    { "predicate": {"custom_model_data":90011}, "model": "item/axes/true_axe_of_the_storm_2"},
+    { "predicate": {"custom_model_data":20003}, "model": "item/axes/basic_battle_axe_1"},
+    { "predicate": {"custom_model_data":20004}, "model": "item/axes/basic_axe_1"},
+    { "predicate": {"custom_model_data":20005}, "model": "item/axes/basic_axe_2"}
+  ]
+}

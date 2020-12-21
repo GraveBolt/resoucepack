@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/custom/swords/rusted_old_broken_sword_1"
+  }
+}
