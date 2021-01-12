@@ -8,6 +8,7 @@
     { "predicate": {"custom_model_data":10001}, "model": "item/swords/iron_swords/iron_sword_1"},
     { "predicate": {"custom_model_data":10002}, "model": "item/swords/demon_swords/demon_sword_1"},
     { "predicate": {"custom_model_data":10003}, "model": "item/swords/ice_swords/ice_sword_1"},
-    { "predicate": {"custom_model_data":10004}, "model": "item/swords/leaf_swords/leaf_sword_1"}
+    { "predicate": {"custom_model_data":10004}, "model": "item/swords/leaf_swords/leaf_sword_1"},
+    { "predicate": {"custom_model_data":30001}, "model": "item/sai/lighting_sai_1"},    
   ]
 }
