@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/custom/sai/lighting_sai_1.png"
+    "layer0": "minecraft:item/custom/sai/lighting_sai_1"
   }
 }
